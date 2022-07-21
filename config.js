@@ -5,16 +5,16 @@ import chalk from 'chalk'
 import { fileURLToPath } from 'url'
 
 global.donasi = process.env.DONASI
-global.thumbmenu = process.env.THUMB_MENU
-global.sig = process.env.LINK_IG
-global.sgh = process.env.LINK_GITHUB
-global.sgc = process.env.LINK_GROUP
-global.ownernumber = process.env.NOWNER
+global.thumbmenu = process.env.-
+global.sig = process.env.-
+global.sgh = process.env.-
+global.sgc = process.env.-
+global.ownernumber = process.env.6283172579745
 global.owner = [
-  ['0'],
-  ['0'],
-  [`${process.env.NOWNER}`, `${process.env.NAMAOWNER}`, true]
-  // [number, dia creator/owner?, dia developer?]
+  ['6283172579745'],
+  ['6283172579745'],
+  [`${process.env.NOWNER}`, `${process.env.REZA OWNER}`, true]
+  // [6283172579745]
 ] // Put your number here
 global.mods = [`${process.env.MODERATOR}`] // Want some help?
 global.prems = [] // Premium user has unlimited limit
@@ -38,8 +38,8 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.packname = process.env.PACKNAME
-global.author = process.env.AUTHOR
+global.packname = process.env.ONICANHH
+global.author = process.env.RZ
 
 global.multiplier = 69 // The higher, The harder levelup
 
